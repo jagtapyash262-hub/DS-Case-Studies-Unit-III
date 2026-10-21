@@ -1,0 +1,18 @@
+
+STACK OPERATIONS
+10 pushed into stack
+20 pushed into stack
+30 pushed into stack
+Stack elements (top to bottom): 30 20 10
+Top element: 30
+30 popped from stack
+Stack elements (top to bottom): 20 10
+
+QUEUE OPERATIONS
+10 added to queue
+20 added to queue
+30 added to queue
+Queue elements (front to rear): 10 20 30
+Front element: 10
+10 removed from queue
+Queue elements (front to rear): 20 30
